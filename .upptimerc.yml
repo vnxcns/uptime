@@ -5,8 +5,10 @@ repo: uptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
+    icon: https://www.google.com/favicon.ico
   - name: Wikipedia
     url: https://en.wikipedia.org
+    icon: https://en.wikipedia.org/favicon.ico
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
