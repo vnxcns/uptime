@@ -10,6 +10,10 @@ sites:
     url: https://portal.myconnectsecure.com
     icon: https://portal.myconnectsecure.com/favicon-32x32.png
     status-website: https://status.myconnectsecure.com/
+  - name: Syncro
+    url: http://syncromsp.com/
+    icon: https://syncromsp.com/wp-content/uploads/2024/09/Favicon-150x150.png
+    status-website: https://www.syncrostatus.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -23,8 +27,5 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
