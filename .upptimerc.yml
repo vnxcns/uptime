@@ -6,9 +6,10 @@ sites:
   - name: Google
     url: https://www.google.com
     icon: https://www.google.com/favicon.ico
-  - name: portal.myconnectsecure.com
+  - name: Connectsecure
     url: https://portal.myconnectsecure.com
     icon: https://portal.myconnectsecure.com/favicon-32x32.png
+    status-website: https://status.myconnectsecure.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
